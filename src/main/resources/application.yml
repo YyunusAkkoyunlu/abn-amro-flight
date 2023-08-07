@@ -1,0 +1,86 @@
+flight:
+  currentFlights:
+    - flightNumber: A101
+      origin: AMS
+      destination: DEL
+      departureTime: "11:00"
+      arrivalTime: "17:00"
+      price: 850
+    - flightNumber: B101
+      origin: AMS
+      destination: BOM
+      departureTime: "12:00"
+      arrivalTime: "19:30"
+      price: 750
+    - flightNumber: C101
+      origin: AMS
+      destination: BLR
+      departureTime: "13:00"
+      arrivalTime: "18:30"
+      price: 800
+    - flightNumber: D101
+      origin: AMS
+      destination: MAA
+      departureTime: "09:00"
+      arrivalTime: "15:00"
+      price: 600
+    - flightNumber: E101
+      origin: MAA
+      destination: BOM
+      departureTime: "16:00"
+      arrivalTime: "17:30"
+      price: 100
+    - flightNumber: F101
+      origin: BOM
+      destination: DEL
+      departureTime: "20:30"
+      arrivalTime: "21:30"
+      price: 80
+    - flightNumber: G101
+      origin: BOM
+      destination: DEL
+      departureTime: "18:00"
+      arrivalTime: "19:30"
+      price: 100
+    - flightNumber: A201
+      origin: LHR
+      destination: DEL
+      departureTime: "11:30"
+      arrivalTime: "17:00"
+      price: 600
+    - flightNumber: B201
+      origin: LHR
+      destination: BOM
+      departureTime: "12:35"
+      arrivalTime: "19:30"
+      price: 750
+    - flightNumber: C201
+      origin: LHR
+      destination: BLR
+      departureTime: "13:45"
+      arrivalTime: "18:30"
+      price: 800
+    - flightNumber: D201
+      origin: LHR
+      destination: MAA
+      departureTime: "09:00"
+      arrivalTime: "15:00"
+      price: 600
+    - flightNumber: E201
+      origin: DEL
+      destination: BOM
+      departureTime: "18:45"
+      arrivalTime: "20:15"
+      price: 100
+    - flightNumber: F201
+      origin: BOM
+      destination: DEL
+      departureTime: "21:15"
+      arrivalTime: "22:30"
+      price: 80
+    - flightNumber: G01
+      origin: BOM
+      destination: DEL
+      departureTime: "20:20"
+      arrivalTime: "21:30"
+      price: 100
